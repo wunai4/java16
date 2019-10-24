@@ -7,6 +7,11 @@ public class show {
 
         System.out.println("11111");
 
+
+    }
+
+    public  void  show(){
+        System.out.println("master444");
     }
 
 }
